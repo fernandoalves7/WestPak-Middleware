@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WestPakMiddleware", "WestPakMiddleware.csproj", "{DFE0EC9A-8F01-4E33-8755-C365C53719DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{40DA3DAB-F747-452B-AB72-E5843CFF5842}"
+	ProjectSection(SolutionItems) = preProject
+		..\Growers Bin Estimate (Access)\Access_AddTimestampToPickupSheetDetail.sql = ..\Growers Bin Estimate (Access)\Access_AddTimestampToPickupSheetDetail.sql
+		Documentation\ActionItems.txt = Documentation\ActionItems.txt
+		Documentation\Grower Service Ticket & Purchase Order.msg = Documentation\Grower Service Ticket & Purchase Order.msg
+		Documentation\RequirementsGathering.txt = Documentation\RequirementsGathering.txt
+		Documentation\setGrowerServiceTickets.docx = Documentation\setGrowerServiceTickets.docx
+		..\BinTrack (SQL Express)\SqlExpress_DataNormalization.sql = ..\BinTrack (SQL Express)\SqlExpress_DataNormalization.sql
+		..\BinTrack (SQL Express)\SqlExpress_DML.sql = ..\BinTrack (SQL Express)\SqlExpress_DML.sql
+		Documentation\SqlExpress_Helpers.sql = Documentation\SqlExpress_Helpers.sql
+		..\BinTrack (SQL Express)\SqlExpress_RecordIdsTable.sql = ..\BinTrack (SQL Express)\SqlExpress_RecordIdsTable.sql
+		Documentation\sync workflow with access integration.vsdx = Documentation\sync workflow with access integration.vsdx
+		Documentation\sync workflow.vsdx = Documentation\sync workflow.vsdx
+		Documentation\ws3.docx = Documentation\ws3.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Fox|Any CPU = Fox|Any CPU
+		Lion|Any CPU = Lion|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE0EC9A-8F01-4E33-8755-C365C53719DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE0EC9A-8F01-4E33-8755-C365C53719DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE0EC9A-8F01-4E33-8755-C365C53719DF}.Fox|Any CPU.ActiveCfg = Fox|Any CPU
+		{DFE0EC9A-8F01-4E33-8755-C365C53719DF}.Fox|Any CPU.Build.0 = Fox|Any CPU
+		{DFE0EC9A-8F01-4E33-8755-C365C53719DF}.Lion|Any CPU.ActiveCfg = Lion|Any CPU
+		{DFE0EC9A-8F01-4E33-8755-C365C53719DF}.Lion|Any CPU.Build.0 = Lion|Any CPU
+		{DFE0EC9A-8F01-4E33-8755-C365C53719DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE0EC9A-8F01-4E33-8755-C365C53719DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
